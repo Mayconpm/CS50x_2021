@@ -12,3 +12,6 @@
     - [more](/pset1/mario/more)
   - [cash](/pset1/cash)
   - [credit](/pset1/credit)
+
+- [Lab 1: Population Growth](/lab1)
+  

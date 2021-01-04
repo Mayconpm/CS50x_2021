@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: When the file is sorted the algorithm takes almost the same time as the merge sort but with the other files the time is much bigger.
+
+sort2 uses: Merge Sort
+
+How do you know?: Is the most efficient with lowers execution times than the others moreover the execution time is bigger with the files in reverse order because the algorithm has to sort more values.
+
+sort3 uses: Selection sort
+
+How do you know?:  The execution time on this algorithm is identical no matter the file to be sorted what indicates that the algorithm takes the same number of steps.

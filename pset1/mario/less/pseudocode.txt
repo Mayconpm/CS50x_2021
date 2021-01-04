@@ -1,0 +1,4 @@
+Get the height input from the user
+If the input is less than 1 or more than 8 aske for the input again
+Iterate through the input making the lines
+    For every i on the input iterate making the columns

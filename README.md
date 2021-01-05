@@ -2,14 +2,14 @@
 
 ## [Academic Honesty](https://cs50.harvard.edu/x/2021/honesty/)
 
-- [Problem Set 0: Scratch](https://scratch.mit.edu/projects/469716350)
+- [Problem Set 0: Scratch :smiley_cat ](https://scratch.mit.edu/projects/469716350) 
 
 - [Lab 1: Population Growth](/lab1)
 
 - [Problem Set 1: C](/pset1)
 
   - [hello](/pset1/hello)
-  - mario
+  - mario :mushroom:
     - [less](/pset1/mario/less)
     - [more](/pset1/mario/more)
   - [cash](/pset1/cash)
@@ -31,7 +31,7 @@
   - [runoff](pset3/runoff)
   - [tideman](pset3/tideman)
 
-- [Lab 4: Volume](/lab4)
+- [Lab 4: Volume :musical_note:](/lab4)
 
 - [Problem Set 4: Memory](/pset4)
 
@@ -57,4 +57,4 @@
 
 - [Problem Set 7: SQL](/pset7)
 
-  - [movies](pset7/movies)
+  - [movies :cinema:](pset7/movies)

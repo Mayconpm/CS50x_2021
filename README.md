@@ -35,7 +35,7 @@
 
 - [Problem Set 4: Memory](/pset4)
 
-  - filter
+  - filter :framed_picture:
     - [less](/pset4/filter/less)
     - [less](/pset4/filter/more)
   - [recover](/pset4/recover)

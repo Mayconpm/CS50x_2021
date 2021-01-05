@@ -37,6 +37,7 @@
 
   - filter
     - [less](/pset4/filter/less)
+    - [less](/pset4/filter/more)
   - [recover](/pset4/recover)
 
 - [Problem Set 5: Data Structures](/pset5)

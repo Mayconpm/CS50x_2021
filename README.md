@@ -31,6 +31,8 @@
   - [runoff](pset3/runoff)
   - [tideman](pset3/tideman)
 
+- [Lab 4: Volume](/lab4)
+
 - [Problem Set 4: Memory](/pset4)
 
   - filter

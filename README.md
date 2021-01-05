@@ -50,8 +50,8 @@
   - mario
     - [less](/pset6/mario/less)
     - [more](/pset6/mario/more)
-  - [cash](/pset6/cash)
-  - [credit](/pset6/credit)
+  - [cash :moneybag:](/pset6/cash)
+  - [credit :credit_card:](/pset6/credit)
   - [readability](/pset6/readability/)
   - [dna](/pset6/dna)
 

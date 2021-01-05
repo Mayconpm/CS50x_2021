@@ -1,4 +1,4 @@
-# [CS50x — Introduction to Computer Science](https://cs50.harvard.edu/x/2021/) - Programming Project and Problem Sets
+# [CS50x 2021 — Introduction to Computer Science](https://cs50.harvard.edu/x/2021/) - Problem Sets
 
 - [Problem Set 0: Scratch](https://scratch.mit.edu/projects/469716350)
 

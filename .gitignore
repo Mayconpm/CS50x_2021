@@ -58,3 +58,4 @@ pset7/movies/movies.db
 pset7/houses/characters.csv
 pset7/houses/students.db
 *.csv
+*.db

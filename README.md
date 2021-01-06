@@ -27,7 +27,7 @@
 
 - [Problem Set 3: Algorithms](/pset3)
 
-  - [plurality](pset3/pluratlity)
+  - [plurality](pset3/plurality)
   - [runoff](pset3/runoff)
   - [tideman](pset3/tideman)
 
@@ -58,6 +58,8 @@
   - [credit :credit_card:](/pset6/credit)
   - [readability](/pset6/readability/)
   - [dna](/pset6/dna)
+
+- [Lab 7: Songs:notes:](/lab7)
 
 - [Problem Set 7: SQL](/pset7)
 

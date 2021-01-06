@@ -40,6 +40,8 @@
     - [less](/pset4/filter/more)
   - [recover](/pset4/recover)
 
+  [Lab 5: Inheritance](/lab5)
+
 - [Problem Set 5: Data Structures](/pset5)
 
   - [speller](/pset5/speller)

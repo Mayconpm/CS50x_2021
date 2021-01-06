@@ -2,7 +2,7 @@
 
 ## [Academic Honesty](https://cs50.harvard.edu/x/2021/honesty/)
 
-- [Problem Set 0: Scratch :smiley_cat:](https://scratch.mit.edu/projects/469716350) 
+- [Problem Set 0: Scratch :smiley_cat:](https://scratch.mit.edu/projects/469716350)
 
 - [Lab 1: Population Growth](/lab1)
 
@@ -45,6 +45,8 @@
 - [Problem Set 5: Data Structures](/pset5)
 
   - [speller](/pset5/speller)
+
+[Lab 6: World Cup :soccer:](/lab6)
 
 - [Problem Set 6: Python :snake:](/pset6)
 

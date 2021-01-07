@@ -1,1 +1,4 @@
-SELECT avg(energy) FROM songs
+SELECT
+    avg(energy)
+FROM
+    songs

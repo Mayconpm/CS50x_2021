@@ -16,7 +16,6 @@
   - [credit](/pset1/credit)
 
 - [Lab 2: Scrabble](/lab2)
-  
 - [Problem Set 2: Arrays](/pset2)
 
   - [readability](/pset2/readability)
@@ -65,4 +64,5 @@
 
   - [movies :cinema:](pset7/movies)
   - [fiftyville](pset7/fiftyville)
-  
+
+- [Lab 8: Trivia](/lab8)

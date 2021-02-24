@@ -1,0 +1,59 @@
+$text-color: #04091e;
+$highlight-color: #6e93d6;
+$base-background: #fff;
+$background: #f9f9ff;
+$title-size: 3em;
+$subtitle-size: 2.25em;
+$body-size: 1em;
+
+body,
+p,
+h1,
+ul,
+li,
+a {
+  padding: 0px;
+  margin: 0px;
+  color: $text-color;
+}
+
+li {
+  list-style: none;
+}
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: $text-color;
+  background: $base-background;
+  font-size: $body-size;
+  line-height: 2em;
+  overflow-x: hidden;
+}
+#site {
+  overflow-x: hidden !important;
+}
+* {
+  box-sizing: border-box;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+.btn {
+  background: $text-color;
+  color: $background;
+  font-size: 1.125em;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.active-menu {
+  color: $highlight-color;
+}

@@ -66,3 +66,5 @@
   - [fiftyville](pset7/fiftyville)
 
 - [Lab 8: Trivia](/lab8)
+
+- [Problem Set 8: Homepage](/pset8)

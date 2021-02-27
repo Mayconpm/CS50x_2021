@@ -59,3 +59,4 @@ pset7/houses/characters.csv
 pset7/houses/students.db
 *.csv
 *.db
+lab9/__pycache__

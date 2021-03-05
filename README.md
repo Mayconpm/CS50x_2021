@@ -17,7 +17,6 @@
 
 - [Lab 2: Scrabble](/lab2)
 - [Problem Set 2: Arrays](/pset2)
-
   - [readability](/pset2/readability)
   - [caesar](/pset2/caesar)
   - [substitution](/pset2/substitution)
@@ -25,7 +24,6 @@
 - [Lab 3: Sort](/lab3)
 
 - [Problem Set 3: Algorithms](/pset3)
-
   - [plurality](pset3/plurality)
   - [runoff](pset3/runoff)
   - [tideman](pset3/tideman)
@@ -33,7 +31,6 @@
 - [Lab 4: Volume :musical_note:](/lab4)
 
 - [Problem Set 4: Memory](/pset4)
-
   - filter :framed_picture:
     - [less](/pset4/filter/less)
     - [less](/pset4/filter/more)
@@ -42,13 +39,11 @@
   [Lab 5: Inheritance](/lab5)
 
 - [Problem Set 5: Data Structures](/pset5)
-
   - [speller](/pset5/speller)
 
 [Lab 6: World Cup :soccer:](/lab6)
 
 - [Problem Set 6: Python :snake:](/pset6)
-
   - [hello](/pset6/hello)
   - mario
     - [less](/pset6/mario/less)
@@ -61,7 +56,6 @@
 - [Lab 7: Songs:notes:](/lab7)
 
 - [Problem Set 7: SQL](/pset7)
-
   - [movies :cinema:](pset7/movies)
   - [fiftyville](pset7/fiftyville)
 
@@ -69,4 +63,6 @@
 
 - [Problem Set 8: Homepage](/pset8/homepage)
 
-- [Lab 9: Birthdays](/lab9)
+- [Lab 9: Birthdays 🎂](/lab9) 
+
+- [Problem Set 9: Finance :money_mouth_face:](/pset9/finance)

@@ -33,7 +33,7 @@
 - [Problem Set 4: Memory](/pset4)
   - filter :framed_picture:
     - [less](/pset4/filter/less)
-    - [less](/pset4/filter/more)
+    - [more](/pset4/filter/more)
   - [recover](/pset4/recover)
 
   [Lab 5: Inheritance](/lab5)

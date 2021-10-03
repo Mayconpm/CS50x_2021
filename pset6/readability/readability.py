@@ -7,7 +7,7 @@ def main():
     text = get_string("Text: ")
 
     letters = len(re.findall('[a-zA-Z]', text))
-    words = len(text.split());
+    words = len(text.split())
     sentences = len(re.findall(r'[.!?]+', text))
 
     index = readability_index(letters, words, sentences)
